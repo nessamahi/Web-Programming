@@ -17,6 +17,10 @@
 
 ![diagram](2.png)
 
-+ Admin
++ Log In
 
 ![diagram](1.png)
+
++ Admin Main Page
+
+![diagram](3.png)
