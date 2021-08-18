@@ -13,4 +13,6 @@
 
 
 + **Page Design** 
+![diagram](2.png)
+
 ![diagram](1.png)
